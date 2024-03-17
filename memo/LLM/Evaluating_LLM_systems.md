@@ -1,0 +1,37 @@
+# [Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices](https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5)
+
+人工知能（AI）の絶えず進化する風景の中で、大規模言語モデル（LLMs）の開発と展開は、様々なドメインを通じてインテリジェントなアプリケーションを形作る上で重要になっています。  
+しかし、この可能性を実現するには、厳格で体系的な評価プロセスが必要です。  
+大規模言語モデル（LLM）システムを評価する際の指標と課題に深く入る前に、現在の評価アプローチを一時的に考えてみましょう。  
+あなたの評価プロセスは、一連のプロンプトにLLMアプリケーションを実行し、出力を手動で検査し、各入力に基づいて品質を測定しようとする繰り返しのループに似ていますか？  
+もしそうなら、評価は一度きりの取り組みではなく、LLMアプリケーションの性能と寿命に大きな影響を与える、複数ステップの反復的プロセスであることを認識する時が来ました。  
+LLMOps（大規模言語モデル専用に調整されたMLOpsの拡張）の台頭に伴い、CI/CE/CD（継続的インテグレーション/継続的評価/継続的デプロイメント）の統合は、LLMで動力を提供されたアプリケーションのライフサイクルを効果的に監視するために不可欠になっています。  
+
+評価の反復的な性質には、いくつかの重要な要素が関わっています。  
+時間とともに継続的に改善される進化する評価データセットが不可欠です。  
+特定のユースケースに合わせて選択し、実装された関連する評価指標のセットを選ぶことも、別の重要なステップです。  
+さらに、堅牢な評価インフラを整えることで、LLMアプリケーションの全寿命を通じてリアルタイム評価が可能になります。  
+LLMシステムを評価する際の指標、課題、およびベストプラクティスを探求する旅に出るにあたり、評価を継続的でダイナミックなプロセスとして認識することが不可欠です。  
+それは、開発者と研究者がLLMを洗練させ、実世界での適用性を高めるために性能を最適化する指針です。  
+
+## LLM evaluation versus LLM system evaluation
+この記事ではLLMシステムの評価に焦点を当てていますが、単独での大規模言語モデル（LLM）の評価と、LLMベースのシステムの評価の違いを見分けることが重要です。  
+現代のLLMは、チャットボット、固有名詞認識（NER）、テキスト生成、要約、質問応答、感情分析、翻訳など、様々なタスクをこなすことで多様性を示しています。  
+通常、これらのモデルは、GLUE（General Language Understanding Evaluation）、SuperGLUE、HellaSwag、TruthfulQA、MMLU（Massive Multitask Language Understanding）などの表1にある標準化されたベンチマークで、確立された指標を使用して評価されます。  
+
+| Benchmark | Description | Reference URL |
+|-----|---|-----|
+| GLUE | GLUE（General Language Understanding Evaluation）ベンチマークは、異なる言語モデルの効果を評価するための多様なNLPタスクの標準化されたセットを提供します。| https://gluebenchmark.com/ |
+
+
+## 単語
+- rigorous: 厳格な
+- delving: 掘り下げる
+- resemble: 似ている
+- longevity: 長寿
+- indispensable: 不可欠な
+- evolving: 進化する
+- tailored: 合わせた
+- embark: 乗り出す
+- discern: 識別する
+- versatility: 多様性
