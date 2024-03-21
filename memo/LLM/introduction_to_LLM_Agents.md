@@ -117,13 +117,27 @@ AIエージェントにおいて、メモリモジュールは重要な役割を
 通常、意味的類似性、重要性、最新性、その他のアプリケーション固有の指標から成る複合スコアが作成されます。  
 これは、特定の情報を取得するために使用されます。  
 
+### Tools
 
+### Planning module
 
+#### Task and question decomposition
 
+#### Reflection or critic
 
+## Agents for enterprise applications
 
+### “Talk to your data” agent
 
+### Swarm of agents
 
+### Agents for recommendation and experience design
+
+### Customized AI author agents
+
+### Multi-modal agents
+
+## What’s next?
 
 
 
