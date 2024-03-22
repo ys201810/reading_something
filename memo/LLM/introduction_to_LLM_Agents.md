@@ -1,6 +1,8 @@
 # [Introduction to LLM Agents](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
+簡易まとめ：自分の言葉でまとめたもの。  
+GPT翻訳：GPTで翻訳した全文。
 
-## 簡易まとめ
+# 簡易まとめ
 LLMで「ある会社の2023年2Qの収支報告のポイントを3つと、技術的な優位性について説明してください」のような質問をする場合、  
 単純な検索では実現不可能で、複数の役割に分解して、解答を生成する必要がある。  
 このように、複数の動きをすることを可能にするものをLLMエージェントと呼ぶ。  
@@ -142,7 +144,7 @@ CahtDevの例
 他のタイプのLLMエージェントについて深く掘り下げるには以下。  
 [タスク実行のためのLLMパワードAPIエージェントの構築](https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/)と[データ分析のためのLLMパワードデータエージェントの構築](https://developer.nvidia.com/blog/build-an-llm-powered-data-agent-for-data-analysis/)  
 
-## GPT翻訳
+# GPT翻訳
 金融アナリストが企業の業績に関する質問に答えるのを助けるために設計された大規模言語モデル（LLM）アプリケーションを考えてみましょう。  
 よく設計された検索強化生成（RAG）パイプラインを使用することで、アナリストは「X社の2022会計年度の総収入は何でしたか？」のような質問に答えることができます。  
 この情報は、経験豊富なアナリストによって財務諸表から簡単に抽出することができます。  
