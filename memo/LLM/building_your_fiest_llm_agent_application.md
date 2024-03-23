@@ -221,7 +221,7 @@ def Agent_Core(Question, Context):
 本番環境向けのRAGパイプラインの構築:[NVIDIA/GenerativeAIExamples](https://nvda.ws/41gNtfJ)
 
 他のタイプのLLMエージェントについて学びたい:  
-[タスク実行のためのLLMパワードAPIエージェントの構築(https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/)  
+[タスク実行のためのLLMパワードAPIエージェントの構築](https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/)  
 [データ分析のためのLLMパワードデータエージェントの構築](https://developer.nvidia.com/blog/build-an-llm-powered-data-agent-for-data-analysis/)  
 
   
