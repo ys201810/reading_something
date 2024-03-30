@@ -342,22 +342,22 @@ Nvidia GeForce GTX 1050モバイルGPU上で約30msかかります。
 我々の方法の残りのパラメータは、ベンチマークによって提供される別のトレーニングシーケンスで見つかりました。  
 評価は以下の指標に従って行われます：  
 
-- Multi-object tracking accuracy (MOTA)
+- Multi-object tracking accuracy (MOTA)  
 偽陽性、偽陰性、およびIDスイッチの観点からの全体的な追跡精度。  
 
-- Multi-object tracking precision (MOTP)
+- Multi-object tracking precision (MOTP)  
 基準地と報告された位置のバウンディングボックスの重なりの観点からの全体的な追跡精度。
 
-- Mostly tracked (MT)
+- Mostly tracked (MT)  
 少なくとも80%の期間同じラベルを持つ基準地のトラックの割合。
 
-- Mostly lost(ML)
+- Mostly lost(ML)  
 最大で20%の期間追跡される基準地のトラックの割合。
 
-- Identity switches (ID)
+- Identity switches (ID)  
 基準地のトラックの報告された識別子が変更される回数。
 
-- Fragmentation (FM)
+- Fragmentation (FM)  
 トラックが検出されないことによって中断される回数。
 
 
