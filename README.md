@@ -4,7 +4,7 @@
 | No  | Date       | Title                                                                                                                                                                  | Author | Memo     |
 |-----|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | 2024/03/30 | [SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC](memo/arxiv/computer_vision/simple_online_and_realtime_tracking_with_a_deep_association_metric.md) |        | DeepSORT |
-| 2   | 2024/04/03 | [RAT — Retrieval Augmented Thoughts](memo/article/LLM/RAT_Retrieval_Augmented_Thoughts.md)                                                                                                                |        |          |
+| 2   | 2024/04/03 | [RAT — Retrieval Augmented Thoughts](memo/article/LLM/RAT_Retrieval_Augmented_Thoughts.md)                                                                             |        | COT+RAG  |
 | 3   |            |                                                                                                                                                                        |        |          |
 | 4   |            |                                                                                                                                                                        |        |          |
 | 5   |            |                                                                                                                                                                        |        |          |
