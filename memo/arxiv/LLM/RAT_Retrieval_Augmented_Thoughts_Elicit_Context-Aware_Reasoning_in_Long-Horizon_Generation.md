@@ -1,4 +1,4 @@
-# [Large Multimodal Agents: A Survey](https://arxiv.org/pdf/2402.15116.pdf)
+# [RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/abs/2403.05313)
 簡易まとめ：自分の言葉でまとめたもの。  
 GPT翻訳：GPTで翻訳した全文。  
 
